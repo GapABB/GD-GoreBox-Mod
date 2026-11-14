@@ -1,0 +1,10 @@
+{
+  "name": "GD",
+  "description": "<align=center><size=70><color=red><b>RUS</b><br><size=40><align=left><color=orange>Оригинал MaxMod, и нах его вообще скрыли из mod.io вернуте!!! @EasyMods1gorebox",
+  "mainScript": "main.lua",
+  "version": "1.1",
+  "active": true,
+  "unloadOnError": false,
+  "safeMode": false,
+  "isPlugin": false
+}
